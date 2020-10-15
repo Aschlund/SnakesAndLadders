@@ -4,6 +4,6 @@
 
 Dette en skoleoppgave i faget Applikasjonsutvikling. Oppgaven gikk ut på å lage et stigespill (Snakes and Ladders) ved bruke av Java, der java swing skulle brukes for å lage GUI-en.
 
-Før spillet starter kan en velge antall spillere, størrelse på brettet, antall stiger/"slanger" og antall terninger. En kan endre farge og navn på spillerne og velge om den skal styres av maskinen eller brukeren. 
+Før spillet starter kan en velge størrelse på brettet, antall spillere, stiger/"slanger" og terninger. En kan endre farge og navn på spillerne og velge om den skal styres av maskinen eller brukeren. 
 
 ![snl9x9](https://user-images.githubusercontent.com/72158791/96115258-f627c300-0ee6-11eb-8e2a-fc35ae20b6a8.jpg)
